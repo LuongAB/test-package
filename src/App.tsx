@@ -54,7 +54,7 @@ const RichTextEditor = (props: IAllProps) => {
 			init={{
 				branding: false,
 				promotion: false,
-				height: '100%',
+				height: 600,
 				plugins:
 					'preview importcss searchreplace directionality fullscreen ' +
 					'image table charmap nonbreaking anchor insertdatetime advlist lists ' +
